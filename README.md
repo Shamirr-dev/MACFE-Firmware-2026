@@ -1,2 +1,11 @@
 # MACFE-Firmware-2026
-first rep
+
+Simple C++ Hello World program.
+
+## Compile
+
+g++ hello.cpp -o hello
+
+## Run
+
+./hello
